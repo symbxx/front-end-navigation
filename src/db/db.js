@@ -74,6 +74,10 @@ export var commonList = [
 	{
 		name: '牛客网',
 		url: 'https://www.nowcoder.com/'
+	},
+	{
+		name: '阿里图标库',
+		url: 'http://www.iconfont.cn/'
 	}
 ];
 
